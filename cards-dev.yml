@@ -2,9 +2,9 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to my bank CARDS development"
+  message: "Welcome to my bank CARDS development da sua doi he he he"
   contactDetails:
-    email: "dev@gmail.com"
+    email: "dev@gmail.com111"
     name: "NGUYEN HUY HOANG - DEVELOPMENT"
   onCallSupport:
     - (888) 888-1234
