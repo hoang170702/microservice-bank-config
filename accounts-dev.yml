@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to my bank Account dev"
+  message: "Welcome to my bank Account devevoper"
   contactDetails:
     email: "{cipher}9879fb236e825a4a99fe0bd26ac7f036fa6e6293375fdb29bd78696c00ffa216"
     name: "NGUYEN HUY HOANG - DEVELOPMENT"
